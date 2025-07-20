@@ -1,4 +1,4 @@
-![Revive Banner]([[https://via.placeholder.com/1200x200.png](https://reviveinc.us/wp-content/uploads/2025/04/logo_2.png)?text=Revive:+Code+the+Future]([https://reviveinc.us/wp-content/uploads/2025/04/logo_2.png](https://reviveinc.us/wp-content/uploads/2025/04/logo_2.png)))
+![Revive Banner](https://via.placeholder.com/1200x200.png?text=Revive+Software+Systems)
 
 # 🚀 Revive: Ignite Innovation
 
@@ -45,4 +45,4 @@ Explore more at [reviveinc.us](https://www.reviveinc.us).
 - 🐦 Follow us on [X](https://x.com/reviveinc)
 
 **Code. Create. Change the world.**  
-*Join Revive and let’s build the future, one commit at a time!*
+*
