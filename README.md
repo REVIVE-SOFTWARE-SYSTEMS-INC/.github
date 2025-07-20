@@ -1,6 +1,6 @@
 ![Revive Banner](https://reviveinc.us/wp-content/uploads/2025/04/logo_2.png)
 
-# 🚀 Revive: Ignite Innovation
+# 🚀 Ignite Innovation
 
 **Welcome to Revive**, the playground for developers to craft cutting-edge solutions for a brighter future. We’re all about turning wild ideas into reality through code, collaboration, and creativity. Ready to build something extraordinary?
 
@@ -22,6 +22,3 @@ We’re passionate about game-changing tech:
 - **💡 Pitch an Idea**: Got a bold concept? Let’s make it real.
 - **🛠️ Code with Us**: Contribute to open-source projects or start your own.
 - **🌐 Connect**: Join our hackathons, workshops, and dev meetups.
-
-**Community Progress**:  
-![Progress](https://progress-bar.dev/75/?title=
