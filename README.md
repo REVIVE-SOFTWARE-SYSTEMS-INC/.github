@@ -1,4 +1,4 @@
-![Revive Banner](https://via.placeholder.com/1200x200.png?text=Revive+Software+Systems)
+![Revive Banner](https://reviveinc.us/wp-content/uploads/2025/04/logo_2.png)
 
 # 🚀 Revive: Ignite Innovation
 
@@ -24,25 +24,4 @@ We’re passionate about game-changing tech:
 - **🌐 Connect**: Join our hackathons, workshops, and dev meetups.
 
 **Community Progress**:  
-![Progress](https://progress-bar.dev/75/?title=Community+Engagement)
-
----
-
-## 🔥 Featured Projects
-| Project | Mission | Tech |
-|---------|---------|------|
-| 🌱 **GreenAI** | Powering eco-friendly smart homes with AI. | Python, TensorFlow |
-| 🔒 **BlockTrack** | Transparent supply chains via blockchain. | Solidity, Ethereum |
-| 🎓 **VR Learn** | Immersive education through virtual reality. | Unity, C# |
-
-Explore more at [reviveinc.us](https://www.reviveinc.us).
-
----
-
-## 📬 Let’s Connect
-- 🌐 [reviveinc.us](https://www.reviveinc.us)
-- 📧 [contact@reviveinc.us](mailto:contact@reviveinc.us)
-- 🐦 Follow us on [X](https://x.com/reviveinc)
-
-**Code. Create. Change the world.**  
-*
+![Progress](https://progress-bar.dev/75/?title=
