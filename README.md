@@ -2,7 +2,7 @@
 
 ![Revive Banner](https://reviveinc.us/wp-content/uploads/2025/04/logo_2.png)
 
-# ✨ Welcome to the Revive Software Solutions GitHub Organization ✨
+# ✨ Welcome to Our GitHub Organization ✨
 
 > **Where Innovation Meets Collaboration**
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Who We Are
 
-The Revive Software Solutions GitHub Organization provides a global community of visionary developers, designers, and tech enthusiasts. We believe that great ideas flourish when brilliant minds come together. Our GitHub organization is a hub for open-source projects, creative experiments, and collaborative ventures across all platforms and technologies.
+This GitHub Organization provides a global community of visionary developers, designers, and tech enthusiasts. We believe that great ideas flourish when brilliant minds come together. Our GitHub organization is a hub for open-source projects, creative experiments, and collaborative ventures across all platforms and technologies.
 
 ---
 
@@ -37,8 +37,8 @@ The Revive Software Solutions GitHub Organization provides a global community of
 
 ## 📈 Community Pulse
 
-![GitHub Stars](https://img.shields.io/github/stars/ReviveSoftwareSolutions?style=social)  
-![Contributors](https://img.shields.io/github/contributors/ReviveSoftwareSolutions/revive-website?color=green&style=flat-square)  
+![GitHub Stars](https://img.shields.io/github/stars/REVIVE-SOFTWARE-SYSTEMS-INC?style=social)  
+![Contributors](https://img.shields.io/github/contributors/REVIVE-SOFTWARE-SYSTEMS-INC/revive-website?color=green&style=flat-square)  
 
 Join over **300+ community members** and counting!
 
@@ -49,8 +49,8 @@ Join over **300+ community members** and counting!
 **Revive Software Systems Inc. - Corporate Website**  
 A modern, dynamic SPA showcasing our services and culture—built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
-- 📂 [Repository](https://github.com/ReviveSoftwareSolutions/revive-website)  
-- 📝 [Documentation](https://github.com/ReviveSoftwareSolutions/revive-website#readme)  
+- 📂 [Repository](https://github.com/REVIVE-SOFTWARE-SYSTEMS-INC/revive-corporate-website)  
+- 📝 [Documentation](https://github.com/REVIVE-SOFTWARE-SYSTEMS-INC/revive-corporate-website/blob/main/README.md)  
 - 🔧 Tech Stack: React · TypeScript · TailwindCSS · Framer Motion  
 - 🛠️ Features: AI Chat Assistant, Light/Dark Mode, Client-Side CMS, Build-Free Setup  
 
@@ -73,13 +73,13 @@ Experience our smooth micro-interactions, dynamic transitions, and AI-powered ch
 Ready to turn your innovative idea into reality? 🚀
 
 - **🌐 Visit**: [reviveinc.us](https://www.reviveinc.us)  
-- **🌱 Get Started**: [Our Projects](https://github.com/ReviveSoftwareSolutions)  
-- **📬 Connect**: [contact@reviveinc.us](mailto:contact@reviveinc.us)  
+- **🌱 Get Started**: [Our Projects](https://github.com/REVIVE-SOFTWARE-SYSTEMS-INC)  
+- **📬 Connect**: [info@reviveinc.us](mailto:info@reviveinc.us)  
 - **📸 Instagram**: [@ReviveInc](https://instagram.com/reviveinc)  
 - **💼 LinkedIn**: [Revive Software Solutions](https://www.linkedin.com/company/revive-software-solutions)  
 
 <div align="center">
-  <a href="https://github.com/ReviveSoftwareSolutions/join">
+  <a href="https://github.com/REVIVE-SOFTWARE-SYSTEMS-INC/join">
     <img src="https://img.shields.io/badge/Join%20Us-Let's%20Innovate!-ff4500?style=for-the-badge&logo=github" alt="Join Us">
   </a>
 </div>
