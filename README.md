@@ -35,15 +35,6 @@ This GitHub Organization provides a global community of visionary developers, de
 
 ---
 
-## 📈 Community Pulse
-
-![GitHub Stars](https://img.shields.io/github/stars/REVIVE-SOFTWARE-SYSTEMS-INC?style=social)  
-![Contributors](https://img.shields.io/github/contributors/REVIVE-SOFTWARE-SYSTEMS-INC/revive-website?color=green&style=flat-square)  
-
-Join over **300+ community members** and counting!
-
----
-
 ## ✨ Project Spotlight: Corporate Website
 
 **Revive Software Systems Inc. - Corporate Website**  
@@ -53,18 +44,6 @@ A modern, dynamic SPA showcasing our services and culture—built with React, Ty
 - 📝 [Documentation](https://github.com/REVIVE-SOFTWARE-SYSTEMS-INC/revive-corporate-website/blob/main/README.md)  
 - 🔧 Tech Stack: React · TypeScript · TailwindCSS · Framer Motion  
 - 🛠️ Features: AI Chat Assistant, Light/Dark Mode, Client-Side CMS, Build-Free Setup  
-
----
-
-## 🎬 Sneak Peek: Animations in Action
-
-<div align="center">
-  <!-- Replace URLs with actual GIF paths -->
-  ![Hero Animation](https://reviveinc.us/wp-content/uploads/2025/04/hero-animation.gif)  
-  ![Theme Toggle](https://reviveinc.us/wp-content/uploads/2025/04/theme-toggle.gif)
-</div>
-
-Experience our smooth micro-interactions, dynamic transitions, and AI-powered chat flows—brought to life with Framer Motion!
 
 ---
 
