@@ -51,7 +51,7 @@ A modern, dynamic SPA showcasing our services and culture—built with React, Ty
 
 Ready to turn your innovative idea into reality? 🚀
 
-- **🌐 Visit**: [reviveinc.us](https://www.reviveinc.us)  
+- **🌐 Visit**: [reviveinc.us](https://reviveinc.us/)  
 - **🌱 Get Started**: [Our Projects](https://github.com/REVIVE-SOFTWARE-SYSTEMS-INC)  
 - **📬 Connect**: [info@reviveinc.us](mailto:info@reviveinc.us)  
 - **📸 Instagram**: [@ReviveInc](https://instagram.com/reviveinc)  
